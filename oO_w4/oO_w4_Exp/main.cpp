@@ -1,3 +1,5 @@
+//메인함수...
+//선언부와 구현부에서 작성한 코드를 실제로 사용!!
 #include <iostream>
 using namespace std;
 
