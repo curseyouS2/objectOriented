@@ -55,7 +55,7 @@ int main(void) {
 
 	//按眉 积己
 
-	Circle pizza //pizza扼绰 按眉 积己凳
+	Circle pizza; //pizza扼绰 按眉 积己凳
 
 	return 0;
 }
